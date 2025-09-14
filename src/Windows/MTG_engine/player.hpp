@@ -9,6 +9,7 @@
 #include <random>
 #include <ranges>
 #include <sstream>
+#include <algorithm>
 
 #include "deck.hpp"
 #include "phase.hpp"
